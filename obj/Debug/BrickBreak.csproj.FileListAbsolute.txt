@@ -1,0 +1,35 @@
+E:\-- Study --\C#\Windows Forms\BTL\BrickBreak\bin\Debug\BrickBreak.exe.config
+E:\-- Study --\C#\Windows Forms\BTL\BrickBreak\bin\Debug\BrickBreak.exe
+E:\-- Study --\C#\Windows Forms\BTL\BrickBreak\bin\Debug\BrickBreak.pdb
+E:\-- Study --\C#\Windows Forms\BTL\BrickBreak\obj\Debug\BrickBreak.csproj.AssemblyReference.cache
+E:\-- Study --\C#\Windows Forms\BTL\BrickBreak\obj\Debug\BrickBreak.BrickBreak.resources
+E:\-- Study --\C#\Windows Forms\BTL\BrickBreak\obj\Debug\BrickBreak.Properties.Resources.resources
+E:\-- Study --\C#\Windows Forms\BTL\BrickBreak\obj\Debug\BrickBreak.csproj.GenerateResource.cache
+E:\-- Study --\C#\Windows Forms\BTL\BrickBreak\obj\Debug\BrickBreak.csproj.CoreCompileInputs.cache
+E:\-- Study --\C#\Windows Forms\BTL\BrickBreak\obj\Debug\BrickBreak.exe
+E:\-- Study --\C#\Windows Forms\BTL\BrickBreak\obj\Debug\BrickBreak.pdb
+E:\-- Study --\C#\Windows Forms\BTL\BrickBreak\obj\Debug\BrickBreak.Menu.resources
+E:\Study\C#\Windows Forms\BTL\BrickBreak\bin\Debug\BrickBreak.exe.config
+E:\Study\C#\Windows Forms\BTL\BrickBreak\bin\Debug\BrickBreak.exe
+E:\Study\C#\Windows Forms\BTL\BrickBreak\bin\Debug\BrickBreak.pdb
+E:\Study\C#\Windows Forms\BTL\BrickBreak\obj\Debug\BrickBreak.csproj.AssemblyReference.cache
+E:\Study\C#\Windows Forms\BTL\BrickBreak\obj\Debug\BrickBreak.csproj.SuggestedBindingRedirects.cache
+E:\Study\C#\Windows Forms\BTL\BrickBreak\obj\Debug\BrickBreak.BrickBreak.resources
+E:\Study\C#\Windows Forms\BTL\BrickBreak\obj\Debug\BrickBreak.Menu.resources
+E:\Study\C#\Windows Forms\BTL\BrickBreak\obj\Debug\BrickBreak.Properties.Resources.resources
+E:\Study\C#\Windows Forms\BTL\BrickBreak\obj\Debug\BrickBreak.csproj.GenerateResource.cache
+E:\Study\C#\Windows Forms\BTL\BrickBreak\obj\Debug\BrickBreak.csproj.CoreCompileInputs.cache
+E:\Study\C#\Windows Forms\BTL\BrickBreak\obj\Debug\BrickBreak.exe
+E:\Study\C#\Windows Forms\BTL\BrickBreak\obj\Debug\BrickBreak.pdb
+E:\Study\C#\WindowsForms\BTL\BrickBreak\bin\Debug\BrickBreak.exe.config
+E:\Study\C#\WindowsForms\BTL\BrickBreak\bin\Debug\BrickBreak.exe
+E:\Study\C#\WindowsForms\BTL\BrickBreak\bin\Debug\BrickBreak.pdb
+E:\Study\C#\WindowsForms\BTL\BrickBreak\obj\Debug\BrickBreak.csproj.AssemblyReference.cache
+E:\Study\C#\WindowsForms\BTL\BrickBreak\obj\Debug\BrickBreak.csproj.SuggestedBindingRedirects.cache
+E:\Study\C#\WindowsForms\BTL\BrickBreak\obj\Debug\BrickBreak.BrickBreak.resources
+E:\Study\C#\WindowsForms\BTL\BrickBreak\obj\Debug\BrickBreak.Menu.resources
+E:\Study\C#\WindowsForms\BTL\BrickBreak\obj\Debug\BrickBreak.Properties.Resources.resources
+E:\Study\C#\WindowsForms\BTL\BrickBreak\obj\Debug\BrickBreak.csproj.GenerateResource.cache
+E:\Study\C#\WindowsForms\BTL\BrickBreak\obj\Debug\BrickBreak.csproj.CoreCompileInputs.cache
+E:\Study\C#\WindowsForms\BTL\BrickBreak\obj\Debug\BrickBreak.exe
+E:\Study\C#\WindowsForms\BTL\BrickBreak\obj\Debug\BrickBreak.pdb
